@@ -3,3 +3,8 @@
 
 # Ignore Python cache files
 *.pyc
+
+# Ignore big data fies
+data/children_cats.csv
+data/wiki_categories.csv
+data/wiki_categories.csv_50k
