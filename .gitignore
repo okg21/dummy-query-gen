@@ -7,5 +7,5 @@
 # Ignore big data fies
 data/children_cats.csv
 data/wiki_categories.csv
-data/wiki_categories.csv_50k
-data/wiki_categories.csv_100k
+data/wiki_categories_50k.csv
+data/wiki_categories_100k.csv
